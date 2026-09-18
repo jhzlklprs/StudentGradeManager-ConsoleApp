@@ -1,0 +1,15 @@
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\bin\Debug\net8.0\StudentGradeManager-ConsoleApp.exe
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\bin\Debug\net8.0\StudentGradeManager-ConsoleApp.deps.json
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\bin\Debug\net8.0\StudentGradeManager-ConsoleApp.runtimeconfig.json
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\bin\Debug\net8.0\StudentGradeManager-ConsoleApp.dll
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\bin\Debug\net8.0\StudentGradeManager-ConsoleApp.pdb
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\obj\Debug\net8.0\StudentGradeManager-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\obj\Debug\net8.0\StudentGradeManager-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\obj\Debug\net8.0\StudentGradeManager-ConsoleApp.AssemblyInfo.cs
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\obj\Debug\net8.0\StudentGradeManager-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\obj\Debug\net8.0\StudentGradeManager-ConsoleApp.sourcelink.json
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\obj\Debug\net8.0\StudentGradeManager-ConsoleApp.dll
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\obj\Debug\net8.0\refint\StudentGradeManager-ConsoleApp.dll
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\obj\Debug\net8.0\StudentGradeManager-ConsoleApp.pdb
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\obj\Debug\net8.0\StudentGradeManager-ConsoleApp.genruntimeconfig.cache
+C:\Users\ITD-L0183\Documents\GitHub\StudentGradeManager-ConsoleApp\StudentGradeManager-ConsoleApp\obj\Debug\net8.0\ref\StudentGradeManager-ConsoleApp.dll
